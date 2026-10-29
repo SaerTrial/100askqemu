@@ -108,6 +108,8 @@ sudo apt-get install  libpixman-1-dev
 
 # 4. Hardware
 
+imx6ull_pro
+
 开发板与 LCD 屏幕实物照片：
 
 ![开发板与 LCD 屏幕](docs/images/hardware.jpg)
